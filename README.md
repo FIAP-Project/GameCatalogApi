@@ -6,9 +6,9 @@ A **GameCatalogApi** é uma Web API desenvolvida em **ASP.NET Core (.NET 10)** c
 
 ## Integrantes
 
-* Nome Completo - RM 000000
-* Nome Completo - RM 000000
-* Nome Completo - RM 000000
+- Felipe Cerboncini Cordeiro — RM554909
+- Pedro Henrique Martins Alves dos Santos — RM558107
+- Milena Codinhoto da Silva - RM554682
 
 ## Estrutura do Projeto
 
@@ -105,4 +105,19 @@ DELETE /api/v1/games/1
 
 ## Prints dos Testes no Swagger
 
-> Adicione aqui os prints das chamadas realizadas no Swagger para cada endpoint (GET, POST, PUT, DELETE).
+Post:
+<img width="1423" height="757" alt="image" src="https://github.com/user-attachments/assets/7c1803e2-c63c-487a-a6c9-39815b10bd3c" />
+
+Get All:
+<img width="1421" height="838" alt="image" src="https://github.com/user-attachments/assets/b65e5fdd-434d-45f3-b7a0-56f0b13755ae" />
+
+Get by Id:
+<img width="1422" height="840" alt="image" src="https://github.com/user-attachments/assets/1bee9814-9c1f-49c8-a16e-7339cec9196e" />
+
+Put:
+<img width="1422" height="713" alt="image" src="https://github.com/user-attachments/assets/33f5882c-5713-4788-9e26-6362bdda172a" />
+
+Delete:
+<img width="1428" height="798" alt="image" src="https://github.com/user-attachments/assets/cb8c7a2e-a09b-49a5-b65d-d238297a9f8c" />
+
+
